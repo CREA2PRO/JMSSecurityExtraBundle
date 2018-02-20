@@ -1,5 +1,5 @@
 {
-    "name": "jms/security-extra-bundle",
+    "name": "jms/security-extra-bundle-c2p",
     "description": "Enhances the Symfony2 Security Component by adding several new features",
     "keywords": ["annotations","authorization","expression","secure","security"],
     "homepage": "http://jmsyst.com/bundles/JMSSecurityExtraBundle",
